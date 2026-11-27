@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YUW6R34SX2.com.hoopverse.training"],
+        "components": [
+          { "/": "/f/*", "comment": "Friend invites" }
+        ]
+      }
+    ]
+  }
+}
